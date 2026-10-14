@@ -1,0 +1,2 @@
+order_id,order_date,status,customer_id,customer_name,customer_phone,customer_email,city,district,delivery_type,delivery_cost,payment_method,payment_status,payment_amount,currency,total_amount,items_json
+طلب-100021,2025-01-11T11:18:00,تم الدفع,عميل-21,علي حسين,771234567,user256181@example.com,تعز,شعوب,عادي,8500,بطاقة,تم الدفع,294000.0,YER,299500.0,"[{""sku"":""SKU-1007"",""name"":""قرص SSD محمول"",""qty"":2,""unit_price"":143000.0,""total"":286000.0},{""sku"":""SKU-1002"",""name"":""فأرة لاسلكية"",""qty"":1,""unit_price"":6000.0,""total"":6000.0}]"
